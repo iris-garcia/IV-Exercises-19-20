@@ -1,0 +1,7 @@
+* Exercises Virtual Infrastructure 2019/2020
+This repository hosts the exercises of the subject Virtual
+Infrastructure for the academic course 2019/2020 at University of
+Granada.
+
+* Index
+- [[https://github.com/iris-garcia/IV-Exercises-19-20/blob/master/01-intro.org][Introduction to Virtual Infrastructure]]
